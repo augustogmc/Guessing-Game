@@ -9,5 +9,5 @@ Primeira tela:
 
 Ao passar para a segunda tela, o usúario passa a ter as informações de quantas tentativas foram realizadas por ele até o acerto, além disso, aparece o botão de "Jogar novamente". Dessa forma, voltando a primeira tela.
 
-Segunda tela::
+Segunda tela:
 <img src="https://github.com/augustogmc/Guessing-Game/assets/123521417/3e1597c2-a39e-4133-9024-0ee16932f91a">
